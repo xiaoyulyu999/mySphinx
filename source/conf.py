@@ -33,3 +33,8 @@ html_static_path = ['_static']
 # Add this to inject your CSS
 def setup(app):
     app.add_css_file('custom.css')  # for Sphinx >= 1.8
+
+html_theme_options = {
+    'collapse_navigation': False,  # <--- This is the key!
+    'navigation_depth': 4,         # Optional: how deep to show nested items
+}
