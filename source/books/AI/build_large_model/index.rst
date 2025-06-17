@@ -28,3 +28,10 @@ Welcome to this guide...
    :maxdepth: 2
 
    chapter1
+   chapter2
+   chapter3
+   chapter4
+   chapter5
+   chapter6
+   chapter7
+
