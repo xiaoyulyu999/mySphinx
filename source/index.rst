@@ -19,6 +19,13 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 1
+   :caption: Projects
+
+   projects/index
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Tools and Resources
 
    Tools and Resources
