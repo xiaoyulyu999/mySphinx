@@ -1,0 +1,8 @@
+docutils~=0.21.2
+sphinx~=7.4.7
+sphinx-rtd-theme~=3.0.2
+
+sphinx-copybutton
+sphinx_code_tabs
+nbsphinx
+pandoc
