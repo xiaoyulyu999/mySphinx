@@ -37,5 +37,4 @@ def setup(app):
 html_theme_options = {
     'collapse_navigation': False,  # <--- This is the key!
     'navigation_depth': 4,         # Optional: how deep to show nested items
-    "content_width": "100%"
 }
