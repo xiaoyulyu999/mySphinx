@@ -1,0 +1,14 @@
+/* custom.css */
+
+/* Make the whole grid use more space */
+.wy-grid-for-nav {
+    max-width: none;
+    width: 100%;
+}
+
+/* Make the content block (right side) wider */
+.wy-content {
+    max-width: none;
+    width: 90%;
+    margin: auto;
+}

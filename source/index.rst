@@ -12,6 +12,20 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Books
+
+   books/AI/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Tools and Resources
+
+   Tools and Resources
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Blog
+
+   Blog
 

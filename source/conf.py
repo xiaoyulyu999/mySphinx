@@ -14,7 +14,7 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_pdj_theme']
+extensions = ['sphinx_rtd_theme']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -24,5 +24,12 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-import sphinx_pdj_theme
-html_theme = 'sphinx_pdj_theme'
+import sphinx_rtd_theme
+html_theme = 'sphinx_rtd_theme'
+
+# Add this line
+html_static_path = ['_static']
+
+# Add this to inject your CSS
+def setup(app):
+    app.add_css_file('custom.css')  # for Sphinx >= 1.8
