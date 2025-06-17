@@ -14,3 +14,9 @@ pip install sphinx sphinx-pdj-theme
 | 二级标题 | 章节或副标题 | `-`               |
 | 三级标题 | 小节     | `^`、`~`、`"`（任选其一） |
 | 四级标题 | 小小节    | `'` 或 `+`（任选）     |
+
+# 4. Copy paste button
+ pip install sphinx-copybutton    
+ 
+# 5. code tabs
+pip install sphinx_code_tabs
