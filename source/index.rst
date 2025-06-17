@@ -28,7 +28,7 @@ documentation for details.
    :maxdepth: 1
    :caption: Tools and Resources
 
-   Tools and Resources
+   tools_resources/index
 
 .. toctree::
    :maxdepth: 1
