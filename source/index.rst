@@ -27,5 +27,5 @@ documentation for details.
    :maxdepth: 1
    :caption: Blog
 
-   Blog
+   blogs/index
 
