@@ -3,6 +3,5 @@ sphinx~=7.4.7
 sphinx-rtd-theme~=3.0.2
 
 sphinx-copybutton
-sphinx_code_tabs
+sphinx-code-tabs
 nbsphinx
-pandoc
