@@ -14,7 +14,7 @@ release = '1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_rtd_theme', 'sphinx-copybutton', 'sphinx_code_tabs', 'nbsphinx', 'sphinx.ext.mathjax']
+extensions = ['sphinx_rtd_theme', 'sphinx_code_tabs', 'nbsphinx', 'sphinx.ext.mathjax']
 
 templates_path = ['_templates']
 exclude_patterns = []
