@@ -38,7 +38,7 @@ AI随想 - 致敬:编程随想
    :maxdepth: 1
    :caption: Tools and Resources
 
-   tools_resources/index
+   tools_resources/math/index
 
 .. toctree::
    :maxdepth: 1
