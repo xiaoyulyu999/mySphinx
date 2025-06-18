@@ -31,7 +31,7 @@ AI随想 - 致敬:编程随想
    :maxdepth: 1
    :caption: Projects
 
-   projects/sspringboot_microservice/index
+   projects/springboot_microservice/index
 
 
 .. toctree::
