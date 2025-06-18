@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'myDOC'
+project = 'AI随想'
 copyright = '2025, Xiaoyu Lyu'
 author = 'Xiaoyu Lyu'
 release = '1.0'

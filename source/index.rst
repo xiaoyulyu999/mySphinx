@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-myDOC documentation
+AI随想 - 致敬:编程随想
 ===================
 
 Add your content using ``reStructuredText`` syntax. See the
