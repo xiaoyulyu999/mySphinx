@@ -29,6 +29,12 @@ AI随想 - 致敬:编程随想
 
 .. toctree::
    :maxdepth: 1
+   :caption: AWS
+
+   AWS/AWS Certified Machine Learning Engineer Associate/index
+
+.. toctree::
+   :maxdepth: 1
    :caption: Projects
 
    projects/springboot_microservice/index
