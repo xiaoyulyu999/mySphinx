@@ -44,5 +44,5 @@ AI随想 - 致敬:编程随想
    :maxdepth: 1
    :caption: Blog
 
-   blogs/index
+   blogs/tech/index
 
