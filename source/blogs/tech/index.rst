@@ -1,4 +1,4 @@
-tech-blog - 1
+Tech 技能
 =============
 
 .. toctree::
