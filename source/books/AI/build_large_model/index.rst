@@ -14,8 +14,6 @@ Author: Sebastian Raschka
 
 ----
 
-Version: 1.0
-Date: June 2025
 
 Disclaimer
 This work is a personal analysis and annotation of the book [Build a Large Language Model (From Scratch)], created solely for educational and non-commercial purposes. All original content remains the property of the respective authors and publishers. No copyright infringement is intended. The content presented here is intended to support learning and academic discussion only.
@@ -26,6 +24,9 @@ This work is a personal analysis and annotation of the book [Build a Large Langu
 ----
 
 Welcome to this guide...
+
+- Version: 1.0
+- Date: June 2025
 
 .. toctree::
    :maxdepth: 2
