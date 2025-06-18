@@ -7,7 +7,7 @@
 ----
 
 
-Build a Large Language Model (From Scratch)
+(￣３￣)a Build a Large Language Model (From Scratch)
 ===========================================
 
 Author: Sebastian Raschka
