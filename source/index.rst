@@ -5,10 +5,12 @@
 
 AI随想 - 致敬:编程随想
 ===================
+.. epigraph::
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+   **民主制度在自由中寻求平等**
+   **社会主义制度在奴役中寻求平等**
+
+   — *哈耶克（诺贝尔经济学奖得主、政治思想家）*
 
 
 .. toctree::
