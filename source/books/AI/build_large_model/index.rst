@@ -7,7 +7,7 @@
 ----
 
 
-(●ﾟωﾟ●) Build a Large Language Model (From Scratch)
+(●'ω'●) Build a Large Language Model (From Scratch)
 ===========================================
 
 Author: Sebastian Raschka
