@@ -13,9 +13,13 @@ AI随想 - 致敬:编程随想
    — *哈耶克（诺贝尔经济学奖得主、政治思想家）*
 
 推荐阅读
-========
+=======
+         相关链接
+================
 
-更多信息请参考 `编程随想的博客 <https://program-think.blogspot.com/>`_。
+- `编程随想的博客 <https://program-think.blogspot.com/>`_
+- `编程随想 - 维基百科 <https://zh.wikipedia.org/zh-hans/%E7%B7%A8%E7%A8%8B%E9%9A%A8%E6%83%B3>`_
+
 
 .. toctree::
    :maxdepth: 1
