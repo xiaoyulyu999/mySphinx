@@ -4,4 +4,4 @@ My Blog
 .. toctree::
    :maxdepth: 2
 
-   blog-1
+   tech/blog-1
