@@ -31,5 +31,5 @@ Welcome to this guide...
 .. toctree::
    :maxdepth: 2
 
-   chapter1-7
+   chapter1_7
 
